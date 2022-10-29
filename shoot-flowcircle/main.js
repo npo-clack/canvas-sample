@@ -79,7 +79,7 @@ document.body.onmousedown = (ev) => {
     const hit = (xd * xd + yd * yd) <= radius * radius;
     if (hit) {
         console.log("hit");
-        // todo: draw new one
+        // ヒットしたら一度玉の状態をリセットして、別のところから表示する。
         resetParameter();
     } else {
         console.log("miss");
