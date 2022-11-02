@@ -7,3 +7,6 @@ canvasを使用して、画面上に円が描画される。
 
 ## [shoot-flowcircle](https://npo-clack.github.io/canvas-sample/shoot-flowcircle/index.html)
 shoot-circle の円が上から流れるようにしたもの。
+
+## [illumination](https://npo-clack.github.io/canvas-sample/illumination/index.html)
+キラキラ
