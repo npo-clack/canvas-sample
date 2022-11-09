@@ -12,4 +12,4 @@ shoot-circle の円が上から流れるようにしたもの。
 キラキラ
 
 ## [moving-circle](https://npo-clack.github.io/canvas-sample/moving-circle/index.html)
-キラキラ
+WASDと十字キーで球を移動させる
