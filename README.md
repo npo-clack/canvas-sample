@@ -10,3 +10,6 @@ shoot-circle の円が上から流れるようにしたもの。
 
 ## [illumination](https://npo-clack.github.io/canvas-sample/illumination/index.html)
 キラキラ
+
+## [moving-circle](https://npo-clack.github.io/canvas-sample/moving-circle/index.html)
+キラキラ
